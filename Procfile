@@ -1,1 +1,1 @@
-worker: python3 -m Yukki
+worker: python3 -m Crush

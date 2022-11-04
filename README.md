@@ -1,4 +1,4 @@
-<p align="center"><img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" alt="ICON" width="150" height="150"/></p>
+<p align="center"><img src="https://te.legra.ph/file/726926b642c34831ea787.jpg" alt="ICON" width="450" height="450"/></p>
 
 <h4 align="center">
     First ever pyrogram based public sourced AFK Bot on Telegram and Github.

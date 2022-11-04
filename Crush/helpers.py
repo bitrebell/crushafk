@@ -76,18 +76,18 @@ asyncio.create_task(auto_clean())
 
 
 RANDOM = [
-    "https://te.legra.ph/file/726926b642c34831ea787.jpg"
-    "https://te.legra.ph/file/945b6fd999a4774d9e8f5.jpg"
-    "https://te.legra.ph/file/55525404e91234ab6dda5.jpg"
-    "https://te.legra.ph/file/cef41d4ec3e0bb822e98c.jpg"
-    "https://te.legra.ph/file/8cec6df3f12328d3bd3bf.jpg"
-    "https://te.legra.ph/file/f58a778b4dd5451c7f4cc.jpg"
-    "https://te.legra.ph/file/6465ee4a422093c2208e6.jpg"
-    "https://te.legra.ph/file/f4259552c1a85cab0edf8.jpg"
-    "https://te.legra.ph/file/4c09105659848dd51a1be.jpg"
-    "https://te.legra.ph/file/689d7577c3c478d7a4ef4.jpg"
-    "https://te.legra.ph/file/e4ee341d973bc6ece2374.jpg"
-    "https://te.legra.ph/file/97173c58396675272802b.jpg"
+    "https://te.legra.ph/file/726926b642c34831ea787.jpg",
+    "https://te.legra.ph/file/945b6fd999a4774d9e8f5.jpg",
+    "https://te.legra.ph/file/55525404e91234ab6dda5.jpg",
+    "https://te.legra.ph/file/cef41d4ec3e0bb822e98c.jpg",
+    "https://te.legra.ph/file/8cec6df3f12328d3bd3bf.jpg",
+    "https://te.legra.ph/file/f58a778b4dd5451c7f4cc.jpg",
+    "https://te.legra.ph/file/6465ee4a422093c2208e6.jpg",
+    "https://te.legra.ph/file/f4259552c1a85cab0edf8.jpg",
+    "https://te.legra.ph/file/4c09105659848dd51a1be.jpg",
+    "https://te.legra.ph/file/689d7577c3c478d7a4ef4.jpg",
+    "https://te.legra.ph/file/e4ee341d973bc6ece2374.jpg",
+    "https://te.legra.ph/file/97173c58396675272802b.jpg",
     "https://te.legra.ph/file/441ad92db4fa010f3db36.jpg"
 ]
 

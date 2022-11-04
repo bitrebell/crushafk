@@ -4,13 +4,13 @@
     First ever pyrogram based public sourced AFK Bot on Telegram and Github.
 </h4>
 <p align="center">
-    <a href="https://t.me/YukkiAFKBot"> Ready-To-Use Bot </a> •
-    <a href="https://t.me/TheYukki"> Support Channel </a> •
-    <a href="https://t.me/YukkiSupport"> Support Chat </a> 
+    <a href="https://t.me/crushafkbot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/crushbot_support"> Support Channel </a> •
+    <a href="https://t.me/crushbot_support"> Support Chat </a> 
 </p>
     
 
-# Yukki AFK Bot
+# Crush AFK Bot
 A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and with so many interactive features.
 
 ## 🖇 Prerequisites
@@ -18,7 +18,7 @@ A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and wi
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
 - [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
 - [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
+- [MongoDB URI](https://www.mongodb.com/cloud/atlas/)
 
 ## 🚀 Heroku Deployment
 
@@ -28,20 +28,20 @@ A Powerful Telegram AFK Bot written in pyrogram using MongoDB as database and wi
 ## 🖇 VPS Deployment
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiAFKBot
-shikhar@MacBook~ $ cd YukkiAFKBot
-shikhar@MacBook~ $ pip3 install -r requirements.txt
-shikhar@MacBook~ $ mv sample.env .env
+syrabot@arch:~$ git clone https://github.com/Darkranger00/crushafk
+syrabot@arch:~$ cd CrushAfkBot
+syrabot@arch:~$ pip3 install -U -r requirements.txt
+syrabot@arch:~$ cp sample_config.py config.py
 ```
 > Edit .env with your values and then start bot with
 
 ```console
-shikhar@MacBook~ $ python3 -m Yukki
+syrabot@arch:~ $ python3 -m Crush
 ```
 
 ## 🗂 License
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@Darkranger00](https://github.com/Darkranger00) .
 
 See [LICENSE](LICENSE) for more information.
 

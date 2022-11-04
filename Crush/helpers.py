@@ -77,7 +77,7 @@ asyncio.create_task(auto_clean())
 
 RANDOM = [
     "https://te.legra.ph/file/726926b642c34831ea787.jpg"
-    "https://te.legra.ph/file/945b6fd999a4774d9e8f5.jpg""
+    "https://te.legra.ph/file/945b6fd999a4774d9e8f5.jpg"
     "https://te.legra.ph/file/55525404e91234ab6dda5.jpg"
     "https://te.legra.ph/file/cef41d4ec3e0bb822e98c.jpg"
     "https://te.legra.ph/file/8cec6df3f12328d3bd3bf.jpg"

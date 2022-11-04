@@ -1,9 +1,9 @@
 {
-  "name": "Yukki AFK Bot",
+  "name": "Crush AFK Bot",
   "description": "Simple and Powerful Telegram's AFK Bot written in Pyrogram using MongoDB.",
-  "logo": "https://telegra.ph/file/78bc88b883b22024002cd.jpg",
+  "logo": "https://te.legra.ph/file/726926b642c34831ea787.jpg",
   "keywords": [
-    "yukki",
+    "crush",
     "mongodb",
     "python",
     "pyrogram"
@@ -17,7 +17,7 @@
       "size": "free"
     }
   },
-  "repository": "https://github.com/TeamYukki/YukkiAFKBot",
+  "repository": "https://github.com/Darkranger00/crushafk",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",

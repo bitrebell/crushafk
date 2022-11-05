@@ -79,7 +79,7 @@ async def on_private_start(_, message: Message):
             ]
         )
         image = random.choice(RANDOM)
-        await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nTo know more about me check help section by /help. Active since {Uptime}", reply_markup=upl)
+        await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nI am designed for AFK by [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\nTo know more about me check help section by /help. Active since {Uptime}", reply_markup=upl)
 
 @app.on_message(filters.command(["help"]) & filters.private & ~filters.edited)
 async def on_private_help(_, message: Message):

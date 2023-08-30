@@ -16,7 +16,7 @@ load_dotenv()
 
 # Get it from my.telegram.org
 API_ID =  10738943
-API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
+API_HASH = "6529131089:AAHTVcOfN-THTSjjDYes5xcCoYz3gAwngOs"
 
 ## Get it from @Botfather in Telegram.
 BOT_TOKEN = "6151806723:AAEOkTGYlhQNPjrUHZAZBUSnIv-qDnTv-LI"

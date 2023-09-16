@@ -1,9 +1,9 @@
-#
-# Copyright (C) 2022-2023 by @bitrebell, < https://github.com/birebell >.
+##
+# Copyright (C) 2022-2023 by @bitrebell, < https://github.com/bitrebell >.
 #
 # This file is part of < https://github.com/bitrebell/crushafk > project,
 # and is released under the "GNU v3.0 License Agreement".
-# Please see < https://github.com/Darkranger00/bitrebell/tree/main/LICENSE >
+# Please see < https://github.com/bitrebell/crushafk/tree/main/LICENSE >
 #
 # All rights reserved.
 #
@@ -40,7 +40,7 @@ async def on_start(_, message: Message):
         ]
     )
     image = random.choice(RANDOM)
-    send = await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nI am designed for AFK by [ＹＯUＲ ＣＲUＳＨ،(💛](https://t.me/aadillllll)\nTo know more about me check help section.Active since {Uptime}", reply_markup=upl)
+    send = await message.reply_photo(image, caption=f"Hello! My name is {botname}.\n\nI am designed for AFK by [𝗕𝗶𝘁𝗥𝗘𝗯𝗲𝗹𝗹،(💛](https://t.me/aadillllll)\nTo know more about me check help section.Active since {Uptime}", reply_markup=upl)
     await put_cleanmode(message.chat.id, send.message_id)
     
 

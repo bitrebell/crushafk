@@ -19,7 +19,7 @@ API_ID =  10738943
 API_HASH = "6529131089:AAHTVcOfN-THTSjjDYes5xcCoYz3gAwngOs"
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = "6151806723:AAEOkTGYlhQNPjrUHZAZBUSnIv-qDnTv-LI"
+BOT_TOKEN = "6412441114:AAF5nri-Vw1kcwvMn4JT4KzXH2Fjpxv3HHA"
 
 # Database to save your chats and stats...
 MONGO_DB_URI = "mongodb+srv://adil00:12345@cluster0.fyt5yoa.mongodb.net/?retryWrites=true&w=majority"
